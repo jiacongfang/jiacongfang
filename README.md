@@ -7,6 +7,6 @@ I'm now an undergraduate student at Peking University, majoring in Computer Scie
 
 ![Jiacong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiacongfang&show_icons=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiacongfang&layout=compact&hide=javascript,html)](https://github.com/jiacongfang)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiacongfang&hide=javascript,html,scss)](https://github.com/jiacongfang)
 
 </div>
