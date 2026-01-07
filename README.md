@@ -10,6 +10,4 @@ I'm now an undergraduate student at Peking University, majoring in Computer Scie
 <!-- ![Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiacongfang&theme=github) -->
 ![Github stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jiacongfang&theme=github)
 ![Productive time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jiacongfang&theme=github&utcOffset=8)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiacongfang&hide=javascript,html,scss&layout=compact)](https://github.com/jiacongfang)
 </div>
