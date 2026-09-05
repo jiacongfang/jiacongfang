@@ -1,7 +1,7 @@
 <!-- Your title -->
 ## Hi, I'm Jiacong Fang  👋
 
-I'm now an undergraduate student at Peking University, majoring in Computer Science(Turing Class). I have broad interests in computer science, especially in the fields of computer vision and graphics. 
+I'm a Ph.D Student, starting from 2026, in the School of Computer Science, Peking University. Previously, I graduate from Turing Class at Peking University. I have broad interests in computer science, especially in the fields of computer vision and graphics. 
 
 <div align="center">
 
